@@ -1,5 +1,7 @@
 # Operators
 
+## Boolean
+
 Boolean operators help test `Boolean` (`true` and `false`) values.
 
 - `&&` - And. Both sides must be true
@@ -14,7 +16,9 @@ Boolean operators help test `Boolean` (`true` and `false`) values.
     - `!false // true`
     - `!true // false`
 
-Numeric operators
+## Numeric
+
+Numeric operators help you do nifty calculations, mostly.
 
 - `+` - addition and string concatenation
     - `5 + 5 // 10`
@@ -31,7 +35,9 @@ Numeric operators
     - Floating point division - `3.5 % 2 // 1.5`
         - Other languages don't offer this and restrict modulus to integers
 
-Comparison operators work on strings and numbers.
+## Comparison
+
+Comparison operators _compare_ two values and work on strings and numbers.
 
 - `==` and `===` - equality
 - `!=` and `!==` - inequality
