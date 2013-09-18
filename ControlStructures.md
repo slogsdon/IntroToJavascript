@@ -38,9 +38,9 @@ For simple if statements, the ternary operator can save you some keystrokes and 
 
 Watch out! This shouldn't be used for complicated `if` structures
 
-### Shorthand Conditional Expressions
+### Short-circuit Logic 
 
-`&&` and `||` allow for conditionally calling a second operand. Testing for `null`/`undefined` values is the most common reason for doing this.
+`&&` and `||` allow for conditionally calling a second operand based on the first. Testing for `null`/`undefined` values is the most common reason for doing this.
 
     // assignment
     var obj = obj || {};
