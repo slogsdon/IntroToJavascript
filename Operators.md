@@ -1,4 +1,4 @@
-### Operators
+# Operators
 
 Boolean operators help test `Boolean` (`true` and `false`) values.
 
