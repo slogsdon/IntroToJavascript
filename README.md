@@ -27,3 +27,4 @@ We're going to be following [A re-introduction to JavaScript](https://developer.
 
 - [Types](https://github.com/slogsdon/IntroToJavascript/blob/master/Types.md)
 - [Operators](https://github.com/slogsdon/IntroToJavascript/blob/master/Operators.md)
+- [Control Structures](https://github.com/slogsdon/IntroToJavascript/blob/master/ControlStructures.md)
