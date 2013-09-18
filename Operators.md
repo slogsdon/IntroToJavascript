@@ -37,3 +37,8 @@ Comparison operators work on strings and numbers.
 - `!=` and `!==` - inequality
 - `>` and `>=` - greater than, greater than or equal to
 - `<` and `<=` - less than, less than or equal to
+ 
+Watch out! `==` and `!=` type cast where `===` and `!==` do not.
+
+    1 == true // true
+    1 === true // false
