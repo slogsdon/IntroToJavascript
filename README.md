@@ -1,6 +1,6 @@
 # Intro To Javascript
 
-A primer into programming in Javascript. This assumes you know nothing, and gosh darnit that's ok.
+A primer into programming in Javascript. This assumes you know nothing, and doggone it, that's ok.
 
 ![](http://4.bp.blogspot.com/-wUtCUGW7_5s/Te-hHSryn4I/AAAAAAAAAJI/6TS3m_N70-I/s1600/Stuart+Smalley.jpg)
 
