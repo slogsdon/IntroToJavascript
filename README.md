@@ -1,6 +1,8 @@
 # Intro To Javascript
 
-A primer into programming in Javascript. This assumes you know nothing, and that's ok.
+A primer into programming in Javascript. This assumes you know nothing, and gosh darnit that's ok.
+
+![](http://4.bp.blogspot.com/-wUtCUGW7_5s/Te-hHSryn4I/AAAAAAAAAJI/6TS3m_N70-I/s1600/Stuart+Smalley.jpg)
 
 #### Resources
 
@@ -22,6 +24,8 @@ A primer into programming in Javascript. This assumes you know nothing, and that
 - [Paul Irish](http://www.paulirish.com/) - claim to fame: Modernizr, HTML5 Boilerplate
 
 ## Let's Get to It
+
+![](http://www.energyfiend.com/wp-content/uploads/vault1-189x300.jpg)
 
 We're going to be following [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) on MDN. While it's aimed at devs who already know Javascript, it describes everything you need to know and the reasons for doing things the right way.
 
