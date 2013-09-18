@@ -26,4 +26,4 @@ A primer into programming in Javascript. This assumes you know nothing, and that
 We're going to be following [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) on MDN. While it's aimed at devs who already know Javascript, it describes everything you need to know and the reasons for doing things the right way.
 
 - [Types](https://github.com/slogsdon/IntroToJavascript/blob/master/Types.md)
-- [Operators](https://github.com/slogsdon/IntroToJavascript/blob/master/Operatorss.md)
+- [Operators](https://github.com/slogsdon/IntroToJavascript/blob/master/Operators.md)
