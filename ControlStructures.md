@@ -23,7 +23,7 @@ We can even blend `else` with another `if` to test for another case.
     var num = 5;
     if (num == 4) {
         // not going to happen
-    } else if (
+    } else if (num ==5) {
         // do something fun!
     } else {
         // if all else fails. get it? all ELSE fails
